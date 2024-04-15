@@ -1,0 +1,24 @@
+{
+"Austrilia":"https://www.amazon.com.au/",
+"Belgium":"https://www.amazon.com.be/",
+"Brazil":"https://www.amazon.com.br/",
+"Canada":"https://www.amazon.ca/",
+"China":"https://www.amazon.cn/",  
+"Egypt":"https://www.amazon.eg/",  # Egyptian
+"France":"https://www.amazon.fr/", # France
+"Germany":"https://www.amazon.de/", #Germen
+"India":"https://www.amazon.in/",
+"Italy":"https://www.amazon.it/",
+"Japan":"https://www.amazon.co.jp/",#
+"Mexico":"https://www.amazon.com.mx/",
+"Netherlands":"https://www.amazon.nl/",  #
+"Poland":"https://www.amazon.pl/", #
+"Saudi Arabia":"https://www.amazon.sa/", #
+"Singapore":"https://www.amazon.sg/",
+"Spain":"https://www.amazon.es/",
+"Sweden":"https://www.amazon.se/",
+"Turkey":"https://www.amazon.com.tr/",
+"United Arab Emirates":"https://www.amazon.ae/",
+"United Kingdom":"https://www.amazon.co.uk/",
+"United States":"https://www.amazon.com/"
+}

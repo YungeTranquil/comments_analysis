@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "domain": ".moz.com",
@@ -554,7 +553,6 @@
         "value": "1---",
         "id": 40
     }
-=======
 [
     {
         "domain": ".moz.com",
@@ -1110,5 +1108,4 @@
         "value": "1---",
         "id": 40
     }
->>>>>>> refs/remotes/origin/main
     ]

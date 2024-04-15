@@ -1,0 +1,8 @@
+aiohttp==3.8.5
+beautifulsoup4==4.9.3
+numpy==1.24.3
+pandas==2.0.3
+Requests==2.31.0
+selenium==4.19.0
+SQLAlchemy==1.4.39
+tqdm==4.65.0

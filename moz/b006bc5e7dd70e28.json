@@ -1,0 +1,46 @@
+{
+  "_content": "iBL{Q4GJ0x0000DNk~Le000130000S2m=5B0Mdepd;kCdIZ#YgMF0Q*00000000000000000000000000000000000000000000000000000000000000000006vpP(1(u01|XkPE!EDK!ETN;Lu<oFrct-kWi1W(RYO30004+Nkl<ZNXNaF>ym>Y4241N5v1k)A9f8$gl3$b9qpc9Z8-T1$EzU0OS-bl0+sSAZPD`WjTn`keThlSYd01tQxKo>wsgf-F-jNGI(DEnkG+FYE)y1986eD!I%hQaSDn3fHm+vaNr%W?Z9yFsEnQ!u2CM*$+kv)2Tp(^+7z5fGD_0n7x;Auj*w#$kv3F@keHcOGpEM<2L1$bcwv3pdg8Ug%97b@s2BSUTYBXahVTl05v4{aSld8WMSFCi@IUM^5R!1)zAsiP^5^P|0MY_}Hm1zTGh|8xjw$y-6qNdAfJjJeYdq>6-%!~oI(YBcQY(X$tEccNpvdoRKmL;dqXgp=ycWt3V8E*7-$F93bz^^RYxSGI}1P^Vii@dHb{J(;!{-5ALQQQXex_ul>Pp@x)6J>E9%x`IU7)-Z<GhYB3P2}5P&M4YH4W>7aOMsF4w_I+4Ihmv%0`s@}-@%r?P%ge<DDKdo+#BuyrSU1oh4oc{j6qx|q$qc(<v7yu&0(U<wUA}R0@JeBe*o4oFbk@1-hTi9002ovPDHLkV1f",
+  "created_at": "2024-04-10T07:37:00.528876+00:00",
+  "elapsed": 2.104765,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Access-Control-Allow-Origin": "*",
+    "CF-Cache-Status": "DYNAMIC",
+    "CF-Ray": "872111a71e1b28c6-IAD",
+    "Cache-Control": "max-age=315360000",
+    "Connection": "keep-alive",
+    "Content-Length": "566",
+    "Content-Type": "image\/png",
+    "Date": "Wed, 10 Apr 2024 07:36:59 GMT",
+    "ETag": "\"6512efa9-236\"",
+    "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+    "Ki-CF-Cache-Status": "BYPASS",
+    "Last-Modified": "Tue, 26 Sep 2023 14:50:17 GMT",
+    "NEL": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\\/\\\/a.nel.cloudflare.com\\\/report\\\/v4?s=92E6C1JyFKh8TaH4EeNcVEaEldK8CNIFjBH5JzUCZl3RqRoxLa2%2FZU%2BAO2oxCv1rcYDhuiPYsiaQJkcYWfWkdx4ZPHq8sOCLFcfFoLCg6oos%2FUr146SlxJ6u1fC6Pn0Jx%2BUoZth14ZeJNprVt5I%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "Server": "cloudflare",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Edge-Location-Klb": "1",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "ki-cache-type": "None",
+    "ki-edge": "v=20.2.7;mv=3.0.6",
+    "ki-origin": "g1p",
+    "x-robots-tag": "noindex, nofollow, nosnippet, noarchive"
+  },
+  "reason": "OK",
+  "request": {
+    "body": "",
+    "headers": {
+      "Accept": "*\/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "https:\/\/www.rainpos.com\/the-statistics-you-need-to-know\/#:~:text=Loyalty%20rewards%20rank%20above%20customer,impact%20the%20amount%20they%20spend",
+      "User-Agent": "newspaper\/0.9.3.1"
+    },
+    "method": "GET",
+    "url": "https:\/\/staging-rainpos.kinsta.cloud\/wp-content\/uploads\/2023\/09\/Group-2892.png"
+  },
+  "status_code": 200,
+  "url": "https:\/\/staging-rainpos.kinsta.cloud\/wp-content\/uploads\/2023\/09\/Group-2892.png"
+}

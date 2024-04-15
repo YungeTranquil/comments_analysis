@@ -1,0 +1,70 @@
+{
+  "created_at": "2024-04-10T07:37:12.264807+00:00",
+  "elapsed": 1.654534,
+  "encoding": "ISO-8859-1",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CAF": "2.0.1",
+    "Connection": "Upgrade, Keep-Alive",
+    "Content-Type": "text\/html",
+    "Date": "Wed, 10 Apr 2024 07:37:10 GMT",
+    "Keep-Alive": "timeout=1, max=10",
+    "Server": "Apache",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Transfer-Encoding": "chunked",
+    "Upgrade": "h2,h2c",
+    "X-UA-Compatible": "IE=Edge",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "history": [
+    {
+      "_content": "JRw9+LsVH%MIcC2O-vwARYFWjLm(n8FE2?&R7Ni^L{vl|NK{QsATlm6FE2$-B0dT{Xmo9CK0Ih;VPrlEJalPvY-K((Fft%UZ*^{DJTG)<bZlil3Op}pWnpAKJYsKTc|Hm}XfZxUZ*^{DJTGW5J_<Z=K2&IBAY^Z2b!}yCbRcM9b0BSRc4cHBJYgVca%E;cB4~7UaC15@FKuaab#rAdZewC;E^cgXE^cXPE@y9cFJ*FaZ*nhTVs&$6E^}yfZEPYwXk~I`JTGBBE<7)AJ_<Z9VsB)5K0GgIbZu-t3I",
+      "created_at": "2024-04-10T07:37:12.264807+00:00",
+      "elapsed": 1.657981,
+      "encoding": "iso-8859-1",
+      "headers": {
+        "Date": "Wed, 10 Apr 2024 07:37:09 GMT",
+        "Server": "Apache",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "Referrer-Policy": "origin-when-cross-origin",
+        "Content-Security-Policy": "upgrade-insecure-requests",
+        "Location": "https:\/\/misuse.ncbi.nlm.nih.gov\/error\/abuse.shtml",
+        "Content-Length": "233",
+        "Keep-Alive": "timeout=1, max=10",
+        "Connection": "Keep-Alive",
+        "Content-Type": "text\/html; charset=iso-8859-1"
+      },
+      "reason": "Found",
+      "request": {
+        "body": "",
+        "headers": {
+          "User-Agent": "newspaper\/0.9.3.1",
+          "Accept-Encoding": "gzip, deflate",
+          "Accept": "*\/*",
+          "Connection": "keep-alive",
+          "Referer": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC10682604\/"
+        },
+        "method": "GET",
+        "url": "https:\/\/www.ncbi.nlm.nih.gov\/coreutils\/uswds\/img\/favicons\/favicon-57.png"
+      },
+      "status_code": 302,
+      "url": "https:\/\/www.ncbi.nlm.nih.gov\/coreutils\/uswds\/img\/favicons\/favicon-57.png"
+    }
+  ],
+  "reason": "OK",
+  "request": {
+    "body": "",
+    "headers": {
+      "Accept": "*\/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC10682604\/",
+      "User-Agent": "newspaper\/0.9.3.1"
+    },
+    "method": "GET",
+    "url": "https:\/\/misuse.ncbi.nlm.nih.gov\/error\/abuse.shtml"
+  },
+  "status_code": 200,
+  "url": "https:\/\/misuse.ncbi.nlm.nih.gov\/error\/abuse.shtml",
+  "_decoded_content": "<!DOCTYPE html PUBLIC \"-\/\/W3C\/\/DTD XHTML 1.1\/\/EN\" \"http:\/\/www.w3.org\/TR\/xhtml11\/DTD\/xhtml11.dtd\"> \n<html>\n<head>\n<title>NCBI - WWW Error Blocked Diagnostic<\/title>\n<meta http-equiv=\"Content-Type\" content=\"text\/html; charset=utf-8\" \/>\n<meta http-equiv=\"pragma\" content=\"no-cache\" \/>\n<meta http-equiv=\"cache-control\" content=\"no-cache\" \/>\n<meta name=\"robots\" content=\"noarchive,none\" \/>\n\n<style type=\"text\/css\">\nbody {\nmin-width: 950px;\n_width: 950px;\n}\nh1.error {color: red; font-size: 40pt}\n\n#mainContent {\npadding: 1em 2em;\n}\n\ndl#diags {\npadding: 0.5em 0.5em 1.5em 0.5em;\npadding-left: 2em;\nborder: solid 1px #888;\nborder-left: none;\nborder-right: none;\nmargin-bottom:0;\nbackground-color:#eeeeee;\ncolor:#666;\nfont-size: 80%;\n_font-size: 70%;\nfont-family: Verdana, sans-serif;\n}\n\ndl#diags dt {\nfloat: left;\nfont-weight: bold;\nwidth: auto;\n}\n\ndl#diags dd {\nmargin-left:1em;\nfloat: left;\nmargin-right: 2em;\n}\n\n#footer span {\nfloat: left;\ncolor: #888;\nfont-size: 80%;\n}\n\n#footer {\ntext-align: right;\npadding: 0 0.5em;\nclear: left;\n}\n\n#footer img {\nborder: none;\n}\n\n.ncbi {\nmargin: 0;\npadding:0;\nfont-size:240%;\nfont-weight: bold;\nfont-family: Times, serif;\ncolor: #336699;\nfloat: left;\ndisplay: inline;\n}\n\n.ncbi a {\ntext-decoration: none;\ncolor: #336699;\n}\n\n.ncbi a:visited {\ntext-decoration: none;\ncolor: #336699;\n}\n\n.ncbi a:hover {\ntext-decoration: underline;\n}\n\n.message {\nfont-family: Verdana, sans-serif;\nbackground-color: #336699;\ncolor: white;\npadding: .35em;\nmargin-left: 7em;\nmargin-top: .67em;\n_margin-top: 0.5em;\nfont-weight: bold;\nfont-size: 100%;\nmargin-bottom: 0;\n}\n\nh1 {\nclear: left;\nfont-size: 110%;\nfont-family: Verdana, sans-serif;\n}\n\n\nbody.denied {\nbackground-color: black;\ncolor: white;\n}\n\nbody.denied h1 {\ncolor: red;\n}\n\nbody.denied a {\ncolor: green;\n}\n\nbody.denied #footer, body.denied #diags {\ncolor: black;\n}\n\n#searchme:focus {\nbackground-color: #ffa;\n}\n\n.errurl {\nletter-spacing: 0;\nmargin: 0 1em;\npadding: 0.25em;\nbackground-color: #fff0f0;\ncolor: #c00;\nfont-family: \"Courier New\", Courier, monospace;\nfont-size: 90%;\n_font-size: 80%;\n}\n\nbody.denied .errurl {\nbackground-color: black;\ncolor: yellow;\n}\n\nspan.x {\ndisplay: none;\n}\n\n<\/style>\n\n<\/head>\n<body class='denied'>\n\n\n\n<div id='header'>\n<a href=\"#mainContent\" title=\"Skip to main content\" \/>\n<p class=\"ncbi\"><a href=\"http:\/\/www.ncbi.nlm.nih.gov\">NCBI<\/a><\/p>\n<p class=\"message\">Error<\/p>\n<\/div>\n\n<div id='mainContent'>\n\n\n<h1 class=\"error\">Access Denied<\/h1>\n\n\n<p>\nYour access to the NCBI website at <b>www.ncbi.nlm.nih.gov<\/b> has been\ntemporarily blocked due to a possible misuse\/abuse situation\ninvolving your site. This is not an indication of a security issue\nsuch as a virus or attack. It could be something as simple as a run\naway script or learning how to better use E-utilities,\n<a href=\"http:\/\/www.ncbi.nlm.nih.gov\/books\/NBK25497\/\">http:\/\/www.ncbi.nlm.nih.gov\/books\/NBK25497\/<\/a>,\nfor more efficient work such that your work does not impact the ability of other researchers\nto also use our site.\nTo restore access and understand how to better interact with our site\nto avoid this in the future, please have your system administrator\ncontact \n<a href=\"mailto:info@ncbi.nlm.nih.gov?subject=NCBI Web site BLOCKED: 34.197.115.223&amp;body=%3E%20Error%3Dblocked for possible abuse%0D%3E%20Server%3Dmisuse.ncbi.nlm.nih.gov%0D%3E%20Client%3D34.197.115.223%0D%3E%20Time%3DWednesday, 10-Apr-2024 03:37:10 EDT  %0D%0DPlease%20enter%20comments%20below:%0D%0D\">info@ncbi.nlm.nih.gov<\/a>.\n<\/p>\n\n<\/div>\n\n<dl id='diags'>\n\n<dt>Error<\/dt><dd>blocked for possible abuse <\/dd>\n<dt>Server<\/dt><dd>misuse.ncbi.nlm.nih.gov<\/dd>\n<dt>Client<\/dt><dd>34.197.115.223<\/dd>\n<dt>Time<\/dt><dd>Wednesday, 10-Apr-2024 03:37:10 EDT<\/dd>\n\n<\/dl>\n \n\n<p id='footer'>\n<a href=\"https:\/\/www.hhs.gov\/vulnerability-disclosure-policy\/index.html\">HHS Vulnerability Disclosure<\/a><br>\n<span id='rev'>Rev. 05\/18\/15<\/span>\n<\/p>\n\n<\/body>\n<\/html>\n\n"
+}
