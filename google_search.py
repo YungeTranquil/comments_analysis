@@ -147,14 +147,14 @@ def scroll_down_simu(browser):
             time.sleep(1)
 
 if __name__ == "__main__":
-    browser = start_browser()
+    browser = start_browser(headless=True)
     browser.get("https://www.google.com")
     keyword = sys.argv[1]
-    pages = sys.argv[2]
+    pages = int(sys.argv[2])
     queryGoogle(keyword)
 
     output = []
-    for i in tqdm(range(15)):
+    for i in tqdm(range(pages)):
         output += pageResultGoogle()
         #try:
         try:

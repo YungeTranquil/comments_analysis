@@ -46,6 +46,8 @@ def queryMoz(domain,cache_disable=False):
             response = fetchUrl(url,cookies=cookies_moz)
     else:
         response = fetchUrl(url,cookies=cookies_moz)
+    with open("data/moz_last_test.html","w",encoding="utf-8") as file:
+        file.write(response.text)
     output_list = [item.text for item in BeautifulSoup(response.content, features="lxml").find_all("h1")[1:]]
     return {key:value for key,value in zip(columns,output_list)}
         #else:
