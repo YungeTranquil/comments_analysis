@@ -118,7 +118,6 @@ def tryUrl(url):
     return parsed_url
 
 def dataframe_to_mysql(df, table_name, database_url):
-
     database_url = "mysql+pymysql://root:a1258896@1.tcp.cpolar.cn:24150/spider"
     table_name = 'google_search'
     # 创建数据库引擎
@@ -147,15 +146,20 @@ def scroll_down_simu(browser):
             time.sleep(1)
 
 if __name__ == "__main__":
-    browser = start_browser(headless=True)
+    browser = start_browser(headless=False)
     browser.get("https://www.google.com")
+    sleep_time(1)
     keyword = sys.argv[1]
     pages = int(sys.argv[2])
     queryGoogle(keyword)
 
     output = []
-    for i in tqdm(range(pages)):
-        output += pageResultGoogle()
+    for i in tqdm(range(pages-1)):
+        try:
+            output += pageResultGoogle()
+        except:
+            sleep_time(5)
+            break
         #try:
         try:
             nextPageGoogle()
@@ -177,5 +181,5 @@ if __name__ == "__main__":
         #    pd.DataFrame(output).to_csv(f"{keyword}.csv",mode="a",header=None)
         sleep_time(1)
 
-    browser.close()
+    #browser.close()
     pd.DataFrame(output).to_csv(f"{keyword}.csv",encoding="utf-8")
